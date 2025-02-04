@@ -1,16 +1,23 @@
-# fourth_project
+# 🧮 Flutter Calculator
 
-A new Flutter project.
+A sleek and modern calculator app built with Flutter, inspired by the Windows 11 Calculator. 🚀  
 
-## Getting Started
+## 📱 Features
+✔️ Basic arithmetic operations (+, -, ×, ÷)  
+✔️ Responsive UI for all screen sizes  
+✔️ Smooth animations & intuitive design  
+✔️ Open-source & customizable 🎨  
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+📷 *[Add your screenshots here]*  
 
-A few resources to get you started if this is your first Flutter project:
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📜 License
+This project is licensed under the MIT License.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🌎 Connect with me
+
+
+Let me know if you want any modifications! 🚀🔥
